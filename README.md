@@ -34,3 +34,5 @@ Project Overview:
 - Gold is the favorite metal.
 - These findings show that customers are willing to spend on diamonds rather than a more affordable pearl or garnet.
 - The male market could be an untapped one.
+- 
+- Karla M Rodriguez
