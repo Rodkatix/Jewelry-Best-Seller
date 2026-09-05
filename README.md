@@ -4,9 +4,9 @@ Project Overview:
 -What drives purchase behavior in jewelry: price, material, or trend?
 
 #Objectives:
--Importing the necessary libraries and overview of the dataset
--Importing the Dataset
--Understand the shape of the dataset
+- Importing the necessary libraries and overview of the dataset
+- Importing the Dataset
+- Understand the shape of the dataset
 -Check the data types of the columns for the dataset
 -Checking for missing values in the dataset
 -Exploratory Data Analysis
