@@ -1,4 +1,4 @@
-#Jewelry-Best-Seller
+##Jewelry-Best-Seller
 
 Project Overview:
 - What drives purchase behavior in jewelry: price, material, or trend?
