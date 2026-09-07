@@ -1,9 +1,9 @@
-##Jewelry-Best-Seller
+Jewelry-Best-Seller
 
 Project Overview:
 - What drives purchase behavior in jewelry: price, material, or trend?
 
-#Objectives:
+Objectives:
 - Importing the necessary libraries and overview of the dataset
 - Importing the Dataset
 - Understand the shape of the dataset
@@ -15,7 +15,7 @@ Project Overview:
 - Feature Engineering
 - Outlier Check
 
-#Models:
+Models:
 - Data Preparation for modeling
 - Check for Multicollinearity
 - Building Models
@@ -26,7 +26,7 @@ Project Overview:
 - 4. Normality of error terms
 - Apply cross validation to improve the model and evaluate it using different evaluation metrics
 
-#Actionable Insights and Business Recommendations
+Actionable Insights and Business Recommendations
 - With these datasets I found.
 - Earrings account for approximately 42% of sales.
 - Female items sold represent approximately 99.6% of records.
